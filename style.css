@@ -1,0 +1,84 @@
+body {
+    text-align: center;
+
+}
+
+span.square {
+    display: inline-block;
+    padding: 12px;
+    border: 6px double;
+}
+
+span.square:hover, span.square *:hover {
+    cursor: pointer;
+
+
+}
+
+.human-player {
+    outline: 3px solid black;
+    outline-offset: -3px;
+}
+
+.computer-player {
+    outline: 3px solid white;
+    outline-offset: -3px;
+}
+container{
+
+    font-size: x-large;
+}
+#endGame{
+    font-size: xx-large;
+    color: crimson;
+}
+#pCendGame {
+    font-size: xx-large;
+    color: black;
+}
+
+#reStart{
+
+    size: 1500px;
+    font-size: xx-large;
+    color: black;
+}
+#pCreStart{
+
+    size: 1500px;
+    font-size: xx-large;
+    color: red;
+}
+#draWreStart{
+
+    size: 1150px;
+    font-size: xx-large;
+    color: blue;
+}
+#draw{
+    size: 1150px;
+    font-size: xx-large;
+    color: green;
+}
+
+#rules{
+    border:black;
+    width: 1100px;
+    height: 350px;
+    background-color: #eee;
+    transition: all ease-in-out 3.0s;
+    cursor: pointer;
+    text-align:left;
+    font-size:medium;
+    word-break:normal;
+    display: inline-block;
+
+
+}
+#rules:hover{
+    border: 1px solid #888;
+    background-color: #ddd;
+}
+
+
+
