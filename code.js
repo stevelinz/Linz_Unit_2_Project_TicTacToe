@@ -16,7 +16,7 @@ $(document).ready(function () {
 
     // the rules of the game once you click on the game a .hide() makes go away
 
-    $("#rules").html("<b>RULES:</b><br> " +
+    $("#rules").html("<b>RULES: Best viewed on a monitor with browser set to 50%</b><br> " +
         "Play will alternate between the human player and an automated computer player. "+
         "<i>Computer player does not play intelligently; it will guess randomly.</i><br><br> "+
         "The player makes a move by clicking on an open square. An image of a human will be placed in the square. " +

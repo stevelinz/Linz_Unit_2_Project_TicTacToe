@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f6a0709-01f5-474d-ad10-c47769fd832d" name="Default Changelist" comment="2nd time graphic optimized test 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="4f6a0709-01f5-474d-ad10-c47769fd832d" name="Default Changelist" comment="3nd time graphic optimized test 2">
+      <change beforePath="$PROJECT_DIR$/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606339694788</updated>
       <workItem from="1606339695977" duration="641000" />
-      <workItem from="1606370081711" duration="1261000" />
+      <workItem from="1606370081711" duration="1539000" />
     </task>
     <task id="LOCAL-00001" summary="2nd time graphic optimized test 1">
       <created>1606370251268</created>
@@ -71,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606370251268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3nd time graphic optimized test 2">
+      <created>1606371384017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606371384017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2nd time graphic optimized test 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd time graphic optimized test 1" />
+    <MESSAGE value="3nd time graphic optimized test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="3nd time graphic optimized test 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1138" y="517" key="Github.ShareDialog" timestamp="1606340141673">
@@ -101,9 +108,9 @@
       <screen x="0" y="25" width="2560" height="1355" />
     </state>
     <state x="1072" y="323" key="Github.UntrackedFilesDialog/0.25.2560.1355@0.25.2560.1355" timestamp="1606340150018" />
-    <state x="936" y="353" key="Vcs.Push.Dialog.v2" timestamp="1606370256829">
+    <state x="936" y="353" key="Vcs.Push.Dialog.v2" timestamp="1606371387749">
       <screen x="0" y="25" width="2560" height="1355" />
     </state>
-    <state x="936" y="353" key="Vcs.Push.Dialog.v2/0.25.2560.1355@0.25.2560.1355" timestamp="1606370256829" />
+    <state x="936" y="353" key="Vcs.Push.Dialog.v2/0.25.2560.1355@0.25.2560.1355" timestamp="1606371387749" />
   </component>
 </project>
